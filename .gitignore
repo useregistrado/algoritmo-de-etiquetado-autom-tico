@@ -1,0 +1,4 @@
+captures/*
+multiespectrales/*
+.ipynb_checkpoints/*
+datos_final.json
